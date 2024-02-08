@@ -1,9 +1,6 @@
-# ERC1155-Random-P2P-Trading
-Original conceptualized for a trading card game and inspired by the random trading system in Pokemon Sword and Shield
-
 # RandomP2P ERC1155 Trading Contract
 
-This Solidity smart contract enables random peer-to-peer (P2P) trading of ERC1155 tokens with other participating traders. Designed for flexibility and simplicity, the contract allows participants to exchange their tokens in a random match-up process.
+This Solidity smart contract enables random peer-to-peer (P2P) trading of ERC1155 tokens with other participating traders. Designed for flexibility and simplicity, the contract allows participants to exchange their tokens in a random match-up process. Conceptualized for a trading card game and inspired by the random trading system in Pokemon Sword and Shield.
 
 ## Features
 
